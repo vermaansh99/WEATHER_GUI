@@ -10,5 +10,5 @@ This is the weather app made with python Tkinter GUI
 #run this also on cmd-->pip install requests->to install requests then run the weathergui.py
 
 
-![ScreenShot](https://{'https://www68.zippyshare.com/i/SEGQmaGM/42972/screenshot.png'})
+![image](https://{'https://www68.zippyshare.com/i/SEGQmaGM/42972/screenshot.png'})
 
