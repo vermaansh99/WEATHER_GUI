@@ -3,8 +3,8 @@ This is the weather app made with python Tkinter GUI
 #To Run This you have to be install some python libraries
 
 # Libraries are below
-#1 requests-Library
-#2 PIL-Image library
+<a href='https://pypi.org/project/requests/'>requests-Library</a>
+#<a href='https://pypi.org/project/Pillow/'>PIL-Image library</a>
 #IDE Recomandation is PyCharm
 
 
