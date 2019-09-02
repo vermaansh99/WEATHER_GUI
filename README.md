@@ -2,7 +2,7 @@
 This is the weather app made with python Tkinter GUI
 #To Run This you have to be install some python libraries
 
-# Librarie are below
+# Libraries are below
 #1 requests-Library
 #2 PIL-Image library
 #IDE Recomandation is PyCharm
