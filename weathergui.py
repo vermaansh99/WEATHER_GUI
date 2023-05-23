@@ -17,7 +17,7 @@ class Weather():
         uri = 'https://openweathermap.org/find?q='+city
         webbrowser.open(uri)
 
-    def Morining(self):
+    def Morning(self):
         root.config(background='#ffffff')
         self.min_temp.config(fg='#262626', background='#ffffff')
         self.temp.config(fg='#262626', background='#ffffff')
@@ -32,7 +32,7 @@ class Weather():
         self.profileCanvas.config(background='#ffffff')
         self.pin.config(background='#ffffff')
 
-    def aftenoon(self):
+    def afternoon(self):
         root.config(background='#eeff41')
         self.min_temp.config(fg='#262626', background='#eeff41')
         self.temp.config(fg='#262626', background='#eeff41')
